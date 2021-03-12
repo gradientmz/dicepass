@@ -52,10 +52,6 @@
 </body>
 
 <style>
-  @font-face {
-    font-family: "Inter";
-    src: url("inter.ttf") format("ttf");
-  }
   body {
     font-family: "Inter";
     display: flex;
@@ -63,7 +59,7 @@
     justify-content: center;
     overflow: hidden;
 
-    background-image: url("https://raw.githubusercontent.com/gradientmz/assets/8f3f9a91ccdc70c2338a5243a3d5056381977d2b/wavey.svg");
+    background-image: url("https:/svgshare.com/i/Uyr.svg");
   }
   h2 {
     color: white;
