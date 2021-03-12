@@ -4,7 +4,7 @@ Dicepass is a simple and easy to use diceware password generator! Words are retr
 
 ## Screen Capture
 
-Coming soon
+![Dicepass Screen Capture](capture.gif)
 
 ## License
 
