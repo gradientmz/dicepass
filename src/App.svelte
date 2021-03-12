@@ -63,7 +63,7 @@
     justify-content: center;
     overflow: hidden;
 
-    background-image: url("https://raw.githubusercontent.com/gradientmz/dicepass/806b56ea2c5ebfb00ca171395383aa92076753fc/wavey.svg");
+    background-image: url("https://raw.githubusercontent.com/gradientmz/assets/8f3f9a91ccdc70c2338a5243a3d5056381977d2b/wavey.svg");
   }
   h2 {
     color: white;
