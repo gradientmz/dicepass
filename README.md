@@ -1,4 +1,6 @@
-# Dicepass
+# Dicepass [![Netlify Status](https://api.netlify.com/api/v1/badges/c90df90c-3c0c-4a77-9e60-dc21f08d4611/deploy-status)](https://app.netlify.com/sites/dicewarepass/deploys)
+
+![Dicepass Cover Image](https://i.ibb.co/yShsYm3/dicepass.png)
 
 Dicepass is a simple and easy to use diceware password generator! Words are retreived from an API that contains over 200,000 words and combined, making a passphrase. This is different from the regular diceware wordlist of 7776, but possibly even more secure.
 
