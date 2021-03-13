@@ -40,7 +40,7 @@
       <i class="far fa-dice" />
     </div>
     <h1 class="title">Dicepass</h1>
-    <h3 class="subtitle">Super-secure diceware passwords!sdfsdf</h3>
+    <h3 class="subtitle">Super-secure diceware passwords!</h3>
     <div class="strength-container">
       <button
         class="strength-button one"
@@ -122,7 +122,7 @@
     justify-content: center;
     overflow: hidden;
 
-    background-image: url("https:/svgshare.com/i/Uyr.svg");
+    background-image: url("https://raw.githubusercontent.com/gradientmz/assets/bbbcda03cd5818738065a1176481333355918f85/wavey.svg");
   }
   h2 {
     color: white;

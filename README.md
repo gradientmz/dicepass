@@ -2,6 +2,10 @@
 
 Dicepass is a simple and easy to use diceware password generator! Words are retreived from an API that contains over 200,000 words and combined, making a passphrase. This is different from the regular diceware wordlist of 7776, but possibly even more secure.
 
+## Important Note
+
+I found out right before completing this project that there is already another existing diceware password generator called dicepass, created by Eran Sandler in 2016. This generator isn't affiliated with them in any way, and I wasn't aware that they existed until the day I deployed this project.
+
 ## Screen Capture
 
 ![Dicepass Screen Capture](capture.gif)
