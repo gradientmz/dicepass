@@ -4,7 +4,7 @@ Dicepass is a simple and easy to use diceware password generator! Words are retr
 
 ## Important Note
 
-I found out right before completing this project that there is already another existing diceware password generator called dicepass, created by Eran Sandler in 2016. This generator isn't affiliated with them in any way, and I wasn't aware that they existed until the day I deployed this project.
+I found out right before completing this project that there was already another existing diceware password generator called dicepass, created by Eran Sandler in 2016. This generator isn't affiliated with them in any way, and I wasn't aware that the other dicepass existed until the day I deployed this project.
 
 ## Screen Capture
 
